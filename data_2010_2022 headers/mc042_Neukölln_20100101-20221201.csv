@@ -1,7 +1,4 @@
-Station;042 Neukölln;042 Neukölln;042 Neukölln;042 Neukölln;042 Neukölln;042 Neukölln;042 Neukölln;042 Neukölln
 Messkomponente;Feinstaub (PM10);Feinstaub (PM2,5);Stickstoffdioxid;Stickstoffmonoxid;Stickoxide;Ozon;Benzol;Toluol
-Einheit;µg/m³;µg/m³;µg/m³;µg/m³;µg/m³;µg/m³;µg/m³;µg/m³
-Messzeit (Angaben in MESZ bzw. MEZ);Monatswerte;Monatswerte;Monatswerte;Monatswerte;Monatswerte;Monatswerte;Monatswerte;Monatswerte
 
 Jan 2010;59;;35;11;52;;3.3;3.0
 Feb 2010;41;;36;6;45;43;2.1;2.1
